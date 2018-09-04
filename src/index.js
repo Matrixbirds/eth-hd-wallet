@@ -6,8 +6,8 @@ import Mnemonic from 'bitcore-mnemonic'
 
 
 
-// See https://github.com/ethereum/EIPs/issues/85
-const BIP44_PATH = `m/44'/60'/0'/0`
+// See etc
+const BIP44_PATH = `m/44'/61'/0'/0`
 
 
 /**
